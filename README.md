@@ -1,4 +1,4 @@
-##Chatbot
+# Chatbot
 This is a simple chatbot built using Flask and TensorFlow. The chatbot is trained on a dataset of intents and can respond to user messages with pre-defined responses.
 
 #Getting started
